@@ -7,7 +7,7 @@
   <img width="12" /><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodeso<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />c
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Janvi Kochar and I'm a B.Tech student specializing in AI & Data Science from Arya College
 
 ###uza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -17,9 +17,10 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-#### 👋 Hello, I'm [Your Name]
+#### 
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+Passionate about learning and creating with code.
+I’m driven to explore AI and build things that matter.
 
 ## 🎓 About Me
 
@@ -44,31 +45,51 @@ I'm a first-year B.Tech student passionate about programming and problem-solving
 Here are some of the projects I've worked on:
 
 1. **Project Name 1**  
-   A brief description of the project, highlighting the technologies used and the problem it solves.
+   🧠 Project: Sign Language to Text Converter
 
-2. **Project Name 2**  
-   Another project showcasing your skills and learning journey.
+📌 Overview:
+This project aims to bridge the communication gap between hearing-impaired individuals and the general population. It converts hand gestures representing sign language into readable text using computer vision and machine learning.
+
+🛠 Technologies Used:
+
+Python – core programming language
+OpenCV – for real-time image processing and gesture detection
+Jupyter Notebook/Google Colab – for model training and experimentation
+Html
+Vs code
+java script
+🎯 Problem It Solves:
+Many individuals who use sign language face difficulty communicating with people who don't understand it. This project provides an AI-based tool that recognizes hand gestures and translates them into readable text in real time, enhancing accessibility and inclusion.
+
+✨ Key Features:
+
+Real-time gesture recognition through webcam
+
+Converts hand signs to corresponding text
+
+Can be extended to voice output or other languages
+
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Janvi`s GitHub Stats]https://github.com/janvi-uk
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [janvikochar9211@gmail.com]
+- **LinkedIn:** [Janvi Kochar]https://www.linkedin.com/in/janvi-kochar-258723353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## 🎯 Goals
-
-- Master data structures and algorithms.
-- Contribute to open-source projects.
-- Build a personal portfolio website.
+🎯 Goals:
+- Strengthen my foundation in Artificial Intelligence and Data Science
+- Create impactful projects that solve real-world problems
+- Grow my GitHub profile with quality contributions
+- Collaborate with student communities and open-source projects
+- Prepare for research and internship opportunities in tech
 
 ---
 
-Feel free to customize this template further to reflect your personality and achievements. Adding a profile picture, badges for your skills, or links to your projects can make your README even more engaging.
 
-If you need assistance with any specific section or want to add more features, feel free to ask!
 
 
 <div align="left">
@@ -95,8 +116,3 @@ If you need assistance with any specific section or want to add more features, f
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
